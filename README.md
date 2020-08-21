@@ -1,3 +1,3 @@
-# Machine-Learning-By-Stanford-Andrew-Ng-Python
+# Machine-Learning-projects
 
-Codes for all assignments are in python. Some are buggy. 
+Codes for all assignments are in python.
